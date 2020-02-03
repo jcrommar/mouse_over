@@ -1,4 +1,4 @@
 # JC On MouseOver
 
 ### Preview
-![img](https://github.com/jcrommar/jc_portfolio/blob/master/public/images/img.jpg?raw=true)   
+![img](https://github.com/jcrommar/mouse_over/blob/master/mouseover.png?raw=true)   
